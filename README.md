@@ -1,9 +1,31 @@
-# HuxBlog Boilerplate
+# Fuxiaoai's AI Blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+## 👋 关于我
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+你好！我是 Fuxiaoai，一名资深的 AI 开发工程师。
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+在这个日新月异的技术时代，我深耕于人工智能领域，致力于探索机器学习、深度学习以及各类大模型（LLM）的前沿技术与落地应用。我的技术栈涵盖了从底层算法研究到上层工程架构的端到端实现。
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+## 🎯 博客初衷
+
+建立这个博客的初衷，是为了搭建一个个人知识库与技术交流的平台：
+
+*   **沉淀与反思**：记录在 AI 研发过程中的架构设计、踩坑经验与技术灵感。
+*   **前沿追踪**：分享对最新 AI 论文、开源项目及行业发展趋势的独到见解。
+*   **技术布道**：将复杂的 AI 理论转化为通俗易懂的工程实践，与更多开发者共同成长。
+
+## 💡 我关注的领域
+
+*   大规模语言模型 (LLM) 的微调与工程化落地 (RAG, Agent)
+*   计算机视觉 (CV) 与多模态技术
+*   AI 系统的性能优化与推理加速
+*   AI 时代下的软件架构演进
+
+## 📬 联系我
+
+欢迎所有对 AI 技术感兴趣的同行交流探讨！
+*   **Email**: lisongjia1@163.com
+*   **Blog**: [https://fuxiaoai.github.io](https://fuxiaoai.github.io)
+
+---
+*Stay hungry, stay foolish.*
