@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fuxiaoai's Blog # the main title
+title: 拂晓AI Blog # the main title
 
-tagline: 资深 AI 开发工程师的所思所想 # it will display as the subtitle
+tagline: 一线AI开发，分享有关AI的所思所想 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   深耕人工智能领域，探索机器学习、深度学习以及各类大模型的前沿技术与落地应用。
