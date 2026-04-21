@@ -1,0 +1,33 @@
+# Site settings
+title: Fuxiaoai's Blog
+SEOTitle: Fuxiaoai的博客 | Fuxiaoai's Blog
+header-img: img/home-bg.jpg
+email: lisongjia1@163.com
+description: "欢迎来到 Fuxiaoai 的博客"
+keyword: "fuxiaoai, blog"
+url: "https://fuxiaoai.github.io"
+baseurl: ""
+
+# SNS settings
+RSS: false
+github_username:    fuxiaoai
+
+# Build settings
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true
+
+gems: [jekyll-paginate]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sidebar: true
+sidebar-about-description: "探索未知，记录点滴。"
+sidebar-avatar: /img/avatar-hux.jpg
+
+featured-tags: true
+featured-condition-size: 1
